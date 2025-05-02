@@ -84,18 +84,6 @@ Project Name: My Awesome Project
 Project Description: This project does amazing things!  It uses Python and integrates with a cloud database.  The core functionality is implemented using a sophisticated algorithm.
 ```
 
-
-## Contributing 🤝
-
-We welcome contributions!  Here's how you can contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b my-new-feature`).
-3. Make your changes and commit them (`git commit -m "Add some feature"`).
-4. Push your changes to your branch (`git push origin my-new-feature`).
-5. Submit a pull request.  Please follow PEP 8 coding style guidelines and ensure your code is well-documented.
-
-
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
