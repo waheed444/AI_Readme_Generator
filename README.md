@@ -1,12 +1,9 @@
 # AI README Generator 🚀
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/AI-README-Generator?style=social)](https://github.com/YOUR_GITHUB_USERNAME/AI-README-Generator)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/AI-README-Generator?style=social)](https://github.com/YOUR_GITHUB_USERNAME/AI-README-Generator)
+[![GitHub stars](https://img.shields.io/github/stars/waheed444/AI_Readme_Generator?style=social)](https://github.com/waheed444/AI_Readme_Generator?)
+[![GitHub forks](https://img.shields.io/github/forks/waheed444/AI_Readme_Generator?style=social)](https://github.com/waheed444/AI_Readme_Generator?)
 [![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)](https://example.com)
-
-
-**The AI README Generator is a user-friendly web tool that helps developers create professional README files for their GitHub projects. Built with Streamlit and powered by Google's Gemini AI, it lets you input project details and instantly generates a polished Markdown README with sections like installation, usage, and contributing. The tool features an intuitive interface, supports code blocks and badges, and allows you to download the README as a .md file, saving time and ensuring high-quality documentation.**
 
 
 ## Table of Contents
@@ -40,7 +37,7 @@ The AI README Generator is a user-friendly web tool that helps developers create
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/AI-README-Generator.git
+   git clone https://github.com/waheed444/AI_Readme_Generator.git
    ```
 
 2. **Create a virtual environment (recommended):**
@@ -103,7 +100,37 @@ We welcome contributions!  Here's how you can contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🙌 Contributions & Feedback
 
-## Footer 
+We welcome contributions!  Here's how you can contribute:
 
-Developed by: YOUR NAME  
+1. Fork the repository.
+2. Create a new branch (`git checkout -b my-new-feature`).
+3. Make your changes and commit them (`git commit -m "Add some feature"`).
+4. Push your changes to your branch (`git push origin my-new-feature`).
+5. Submit a pull request.  Please follow PEP 8 coding style guidelines and ensure your code is well-documented
+
+If you find any issues or want to improve this project, feel free to open a [GitHub issue](https://github.com/waheed444/AI_Readme_Generator/issues) or submit a pull request.
+
+This repo is only for learning and exploring new things, feel free to fork it, explore, or give suggestions!
+
+**Star ⭐ the repo if it helps you!**
+
+---
+
+## 🙌 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/waheed444/?originalSubdomain=pk)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/waheed444" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="waheedahmad5519@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
