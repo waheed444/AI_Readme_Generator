@@ -12,7 +12,7 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 # Streamlit UI
 st.set_page_config(page_title="Professional README Generator", page_icon="📝")
 st.title("📝 AI-Powered Professional README Generator")
-st.markdown("Generate beautiful and professional GitHub README files using Gemini AI.")
+st.markdown("Generate well-defined and professional README files for your Github projects using Google Gemini.")
 
 # User Input
 with st.form("readme_form"):
