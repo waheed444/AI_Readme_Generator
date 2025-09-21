@@ -197,6 +197,7 @@ if generate and (extracted_content or manual_input):
 
     PROJECT CONTENT:
     {all_content}
+    
 
     ADDITIONAL INFO:
     - Project Title: {project_title or "Auto-detect"}
