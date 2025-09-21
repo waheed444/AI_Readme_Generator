@@ -6,6 +6,11 @@ import os
 # Load API key
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
+
+if not api_key:
+    st.error("❌ GOOGLE_API_KEY not found. Please set it in your .env file.")
+    st.stop()
+
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
@@ -59,8 +64,12 @@ if generate:
     """
 
     with st.spinner("🚧 Generating your README.md..."):
-        response = model.generate_content(prompt)
-        readme_content = response.text
+        try:
+            response = model.generate_content(prompt)
+            readme_content = response.text if hasattr(response, "text") else str(response)
+        except Exception as e:
+            st.error(f"❌ Gemini API error: {e}")
+            st.stop()
 
     # Display Result
     st.subheader("📄 Preview Your README.md")
